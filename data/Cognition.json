@@ -1,0 +1,36 @@
+{
+    "id": 57600307,
+    "name": "Cognition",
+    "author": "EndLevel",
+    "creators": ["benji8080", "EndLevel"],
+    "verifier": "nSwish",
+    "verification": "https://youtu.be/g2XKqyHfM1M?si=FjlOPymJFIGkC0M-",
+    "percentToQualify": "40",
+    "password": "Free To Copy",
+    "records": [
+		{
+			"user": "Insurgentes54",
+			"link": "https://youtu.be/GjPe9oCwp-o?si=Mnshqgaymc4VvCF-",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Galaxy",
+			"link": "https://youtu.be/-SqXejo1hYs?si=70KNFaQpwX4I-eRS",
+			"hz": "144",
+			"percent": 100
+		},
+		{
+			"user": "Whizkid05",
+			"link": "https://youtu.be/HQwel6f7M88?si=1X0XmJ8Mn0uMIALT",
+			"hz": "240",
+			"percent": 100
+		},
+		{
+			"user": "lolwut",
+			"link": "https://youtu.be/mL5WtuMoSZA?si=ZXI18PGTFXXoYx7Q",
+			"hz": "CBF",
+			"percent": 100
+		}
+    ]
+}
